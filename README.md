@@ -15,7 +15,7 @@ Chris</a></h1>
 
 - 💼 I’m currently working as a Data Science Working Student for <a href="https://www.telefonica.de/" target="blank">Telefónica Germany</a>
 
-- ♟️ I’m passinate about <a href="https://gym-muc-moosach.musin.de/faecher/schachklub/" target="blank">teaching chess</a> at my local school
+- ♟️ I’m passionate about <a href="https://gym-muc-moosach.musin.de/faecher/schachklub/" target="blank">teaching chess</a> at my local school
 
 - 💻 Check out my <a href="https://christian.hobelsberger-muc.de/" target="blank">personal website</a> for further information
 
