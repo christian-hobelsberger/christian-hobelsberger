@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm <a href="https://christian.hobelsberger-muc.de/" target="blank">
+Chris</a></h1>
+<h3 align="center">A passionate Statistics Student from Munich Germany</h3>
+
+https://views.whatilearened.today/views/github/christian-hobelsberger/christian-hobelsberger.svg?cache=remove
+
 ### Hi there 👋
 
 <!--
