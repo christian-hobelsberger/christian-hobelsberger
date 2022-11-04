@@ -2,7 +2,10 @@
 Chris</a></h1>
 <h3 align="center">A passionate Statistics Student from Munich Germany</h3>
 
-<img src="https://views.whatilearened.today/views/github/christian-hobelsberger/christian-hobelsberger.svg?cache=remove"/>
+<p align="center">
+ <img src="https://views.whatilearened.today/views/github/christian-hobelsberger/christian-hobelsberger.svg?cache=remove"/>
+ <img src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fchristian.hobelsberger-muc.de%2F"/>
+  </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="240" width="320" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
