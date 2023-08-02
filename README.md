@@ -30,7 +30,7 @@ Chris</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/christian-hobelsberger">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="[https://dev.to/100rabhcsmc](https://christian.hobelsberger-muc.de/)">
+	   <a style="margin-left: 10px;" target="_blank" href="https://christian.hobelsberger-muc.de/">
 					<img src="https://img.icons8.com/external-nawicon-outline-color-nawicon/40/null/external-website-online-learning-nawicon-outline-color-nawicon.png"></a>
       </div>
 
