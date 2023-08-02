@@ -20,6 +20,14 @@ Chris</a></h1>
 - 💻 Check out my <a href="https://christian.hobelsberger-muc.de/" target="blank">personal website</a> for further information
 
 - 💬Feel free to **reach out to me via my <a href="https://christian.hobelsberger-muc.de/#contact" target="blank">website</a>!**
+
+- Take a look at some of my selected projects:
+   - [The impact of pandemic restrictions on mental health during COVID 19 in Germany (Bachelor Thesis)](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/)
+   - [Covid Trends and Impact Survey (CTIS) researching the mental health during the pandemic](https://github.com/christian-hobelsberger/CTIS-Seminar)
+   - [Multivariate Analysis of Climatological and Hydrological Low Water Drivers in Bavaria](https://github.com/StatPrak-Droughts)
+   - [Analysis of the German Federal Election 2021](https://github.com/christian-hobelsberger/AP-BTW2021)
+   - [Munich RE Data Science Day 2022](https://github.com/christian-hobelsberger/MunichREDataScienceDay)
+   - [Cherry-Score: Unveiling Diversity in German Companies](https://github.com/christian-hobelsberger/DataFestGer2023)
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
