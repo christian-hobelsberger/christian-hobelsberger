@@ -23,8 +23,8 @@ Chris</a></h1>
 
 - Take a look at some of my selected projects:
    - [The impact of pandemic restrictions on mental health during COVID 19 in Germany (Bachelor Thesis)](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/)
-   - [Covid Trends and Impact Survey (CTIS) researching the mental health during the pandemic](https://github.com/christian-hobelsberger/CTIS-Seminar)
    - [Multivariate Analysis of Climatological and Hydrological Low Water Drivers in Bavaria](https://github.com/StatPrak-Droughts)
+   - [Covid Trends and Impact Survey (CTIS) researching the mental health during the pandemic](https://github.com/christian-hobelsberger/CTIS-Seminar)
    - [Analysis of the German Federal Election 2021](https://github.com/christian-hobelsberger/AP-BTW2021)
    - [Munich RE Data Science Day 2022](https://github.com/christian-hobelsberger/MunichREDataScienceDay)
    - [Cherry-Score: Unveiling Diversity in German Companies](https://github.com/christian-hobelsberger/DataFestGer2023)
