@@ -13,7 +13,7 @@ Chris</a></h1>
 
 - 👨‍🎓 I’m currently studying statistics at the <a href="https://www.lmu.de/de/index.html" target="blank">LMU Munich</a>
 
-- 💼 I’m currently working as a Data Science Working Student for <a href="https://www.telefonica.de/" target="blank">Telefónica Germany</a>
+- 💼 I’m currently working as a Central Analytics Intern at Munich Re <a href="https://www.telefonica.de/" target="blank">Telefónica Germany</a>
 
 - ♟️ I’m passionate about <a href="https://gym-muc-moosach.musin.de/faecher/schachklub/" target="blank">teaching chess</a> at my local school
 
