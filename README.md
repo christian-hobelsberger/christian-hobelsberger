@@ -22,6 +22,9 @@ Chris</a></h1>
 - 💬Feel free to **reach out to me via my <a href="https://christian.hobelsberger-muc.de/#contact" target="blank">website</a>!**
 
 - Take a look at some of my selected projects:
+   - [Optimizing Blood Cell Classification with Convolutional Neural Networks](https://github.com/christian-hobelsberger/NN_biomedical_image_classification)
+   - [A Comparative Analysis of Prompting Techniques for Fallacy Detection](https://github.com/christian-hobelsberger/Fallacy_Detection_Language_Technology_Project)
+   - [Multiple Choice Question Generation by Fine-Tuning BART in Modular and Unified Approaches](https://github.com/christian-hobelsberger/NLP_project_quizz_generator)
    - [The impact of pandemic restrictions on mental health during COVID 19 in Germany (Bachelor Thesis)](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/)
    - [Multivariate Analysis of Climatological and Hydrological Low Water Drivers in Bavaria](https://github.com/StatPrak-Droughts)
    - [Covid Trends and Impact Survey (CTIS) researching the mental health during the pandemic](https://github.com/christian-hobelsberger/CTIS-Seminar)
