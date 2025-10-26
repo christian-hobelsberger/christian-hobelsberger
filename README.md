@@ -22,6 +22,8 @@ Chris</a></h1>
 - 💬Feel free to **reach out to me via my <a href="https://christian.hobelsberger-muc.de/#contact" target="blank">website</a>!**
 
 - Take a look at some of my selected projects:
+   - [Systematic Evaluation of Uncertainty Estimation Methods in Large Language Models](https://github.com/christian-hobelsberger/LLMUncertainty)
+   - [Heart Disease Prediction and Interpretability](https://github.com/christian-hobelsberger/Heart_Disease_Interpretability)
    - [Optimizing Blood Cell Classification with Convolutional Neural Networks](https://github.com/christian-hobelsberger/NN_biomedical_image_classification)
    - [A Comparative Analysis of Prompting Techniques for Fallacy Detection](https://github.com/christian-hobelsberger/Fallacy_Detection_Language_Technology_Project)
    - [Multiple Choice Question Generation by Fine-Tuning BART in Modular and Unified Approaches](https://github.com/christian-hobelsberger/NLP_project_quizz_generator)
