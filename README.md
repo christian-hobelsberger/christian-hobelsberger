@@ -12,7 +12,7 @@ Chris</a></h1>
 </a>
 
 - 👨‍🎓 I’m currently studying statistics at the <a href="https://www.lmu.de/de/index.html" target="blank">LMU Munich</a>
-
+<!--
 - 💼 I’m currently working as a Integrated Student at <a href="https://www.munichre.com/" target="blank">Munich Re</a>
 
 - ♟️ I’m passionate about <a href="https://gym-muc-moosach.musin.de/faecher/schachklub/" target="blank">teaching chess</a> at my local school
@@ -20,7 +20,7 @@ Chris</a></h1>
 - 💻 Check out my <a href="https://christian.hobelsberger-muc.de/" target="blank">personal website</a> for further information
 
 - 💬Feel free to **reach out to me via my <a href="https://christian.hobelsberger-muc.de/#contact" target="blank">website</a>!**
-
+-->
 - Take a look at some of my selected projects:
    - [Systematic Evaluation of Uncertainty Estimation Methods in Large Language Models](https://github.com/christian-hobelsberger/LLMUncertainty)
    - [Heart Disease Prediction and Interpretability](https://github.com/christian-hobelsberger/Heart_Disease_Interpretability)
